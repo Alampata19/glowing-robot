@@ -1,0 +1,24 @@
+model_config_list {
+    config {
+        name: "digit_AI"
+        base_path: "/mnt/c/Users/DELL/OneDrive/Desktop/ml_app/digit_AI"
+        model_platform: "tensorflow"
+    }
+    config {
+        name : "digit_AI_Inverse"
+        base_path: "/mnt/c/Users/DELL/OneDrive/Desktop/ml_app/digit_AI_Inverse"
+        model_platform: "tensorflow"
+    }
+    config {
+        name : "digit_AI_argmax"
+        base_path: "/mnt/c/Users/DELL/OneDrive/Desktop/ml_app/digit_AI_argmax"
+        model_platform: "tensorflow"
+    }
+    config {
+        name : "digit_AI_argmax_inherit"
+        base_path: "/mnt/c/Users/DELL/OneDrive/Desktop/ml_app/digit_AI_argmax_inherit"
+        model_platform: "tensorflow"
+    }
+
+}
+
